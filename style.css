@@ -1,0 +1,22 @@
+h1{
+  font-family: Helvetica; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:Black;
+  text-align: center; 
+  text-decoration: underline
+}
+table{
+  font-family: Garamond; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: #33BDFF; 
+  border: 2px solid navy
+}
+table.inner{
+  border: 0px
+}
